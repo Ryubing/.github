@@ -30,7 +30,7 @@
   <br>
   This is not a Ryujinx revival project. This is not a Phoenix project.
   <br>
-  Guides and documentation can be found on the <a href="https://github.com/GreemDev/Ryujinx/wiki">Wiki tab</a>.
+  Guides and documentation can be found on the <a href="https://github.com/GreemDev/Ryujinx/wiki">Wiki</a>.
 </p>
 <p align="center">
   If you would like a more preservative fork of Ryujinx, check out <a href="https://github.com/ryujinx-mirror/ryujinx">ryujinx-mirror</a>.
