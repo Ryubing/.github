@@ -1,17 +1,17 @@
 <table align="center">
     <tr>
         <td align="center" width="25%">
-            <img src="https://raw.githubusercontent.com/GreemDev/ryuassets/refs/heads/main/RyujinxApp_1024.png" alt="Ryujinx" >
+            <img src="https://github.com/Ryubing/Assets/raw/refs/heads/main/RyujinxApp_1024.png" alt="Ryujinx" >
         </td>
         <td align="center" width="75%">
           
 # Ryujinx
           
-[![Release workflow](https://github.com/GreemDev/Ryujinx/actions/workflows/release.yml/badge.svg)](https://github.com/GreemDev/Ryujinx/actions/workflows/release.yml)
-[![Latest release](https://img.shields.io/github/v/release/GreemDev/Ryujinx)](https://github.com/GreemDev/Ryujinx/releases/latest)
+[![Release workflow](https://github.com/Ryubing/Ryujinx/actions/workflows/release.yml/badge.svg)](https://github.com/Ryubing/Ryujinx/actions/workflows/release.yml)
+[![Latest release](https://img.shields.io/github/v/release/Ryubing/Ryujinx)](https://github.com/Ryubing/Ryujinx/releases/latest)
   <br>
-[![Canary workflow](https://github.com/GreemDev/Ryujinx/actions/workflows/canary.yml/badge.svg)](https://github.com/GreemDev/Ryujinx/actions/workflows/canary.yml)
-[![Latest canary release](https://img.shields.io/github/v/release/GreemDev/Ryujinx-Canary?label=canary)](https://github.com/GreemDev/Ryujinx-Canary/releases/latest)
+[![Canary workflow](https://github.com/Ryubing/Ryujinx/actions/workflows/canary.yml/badge.svg)](https://github.com/Ryubing/Ryujinx/actions/workflows/canary.yml)
+[![Latest canary release](https://img.shields.io/github/v/release/Ryubing/Canary-Releases?label=canary)](https://github.com/Ryubing/Canary-Releases/releases/latest)
         </td>
     </tr>
 </table>
@@ -20,7 +20,7 @@
   Ryujinx is an open-source Nintendo Switch emulator, originally created by gdkchan, written in C#.
   This emulator aims at providing excellent accuracy and performance, a user-friendly interface and consistent builds.
   It was written from scratch and development on the project began in September 2017.
-  Ryujinx is available on GitHub under the <a href="https://github.com/GreemDev/Ryujinx/blob/master/LICENSE.txt" target="_blank">MIT license</a>.
+  Ryujinx is available on GitHub under the <a href="https://github.com/Ryubing/Ryujinx/blob/master/LICENSE.txt" target="_blank">MIT license</a>.
   <br />
 </p>
 <p align="center">
@@ -30,7 +30,7 @@
   <br>
   This is not a Ryujinx revival project. This is not a Phoenix project.
   <br>
-  Guides and documentation can be found on the <a href="https://github.com/GreemDev/Ryujinx/wiki">Wiki</a>.
+  Guides and documentation can be found on the <a href="https://github.com/Ryubing/Ryujinx/wiki">Wiki</a>.
 </p>
 <p align="center">
   If you would like a more preservative fork of Ryujinx, check out <a href="https://github.com/ryujinx-mirror/ryujinx">ryujinx-mirror</a>.
@@ -44,7 +44,7 @@
     </a>
     <br>
     <br>
-    <img src="https://raw.githubusercontent.com/GreemDev/Ryujinx/refs/heads/master/docs/shell.png">
+    <img src="https://raw.githubusercontent.com/Ryubing/Ryujinx/refs/heads/master/docs/shell.png">
 </p>
 
 ## Usage
@@ -57,17 +57,17 @@ failing to meet this requirement may result in a poor gameplay experience or une
 Stable builds are made every so often onto a separate "release" branch that then gets put into the releases you know and love.
 These stable builds exist so that the end user can get a more **enjoyable and stable experience**.
 
-You can find the latest stable release [here](https://github.com/GreemDev/Ryujinx/releases/latest).
+You can find the latest stable release [here](https://github.com/Ryubing/Ryujinx/releases/latest).
 
 Canary builds are compiled automatically for each commit on the master branch.
 While we strive to ensure optimal stability and performance prior to pushing an update, these builds **may be unstable or completely broken**.
 These canary builds are only recommended for experienced users.
 
-You can find the latest canary release [here](https://github.com/GreemDev/Ryujinx-Canary/releases/latest).
+You can find the latest canary release [here](https://github.com/Ryubing/Canary-Releases/releases/latest).
 
 ## Documentation
 
-If you are planning to contribute or just want to learn more about this project please read through our [documentation](docs/README.md).
+If you are planning to contribute or just want to learn more about this project please read through our [documentation readme](https://github.com/Ryubing/Ryujinx/blob/master/docs/README.md).
 
 ## Features
 
@@ -113,9 +113,9 @@ If you are planning to contribute or just want to learn more about this project 
 
 ## License
 
-This software is licensed under the terms of the [MIT license](LICENSE.txt).
+This software is licensed under the terms of the MIT license.
 This project makes use of code authored by the libvpx project, licensed under BSD and the ffmpeg project, licensed under LGPLv3.
-See [LICENSE.txt](LICENSE.txt) and [THIRDPARTY.md](distribution/legal/THIRDPARTY.md) for more details.
+See [LICENSE.txt](https://github.com/Ryubing/Ryujinx/blob/master/LICENSE.txt) and [THIRDPARTY.md](https://github.com/Ryubing/Ryujinx/blob/master/distribution/legal/THIRDPARTY.md) for more details.
 
 ## Credits
 
