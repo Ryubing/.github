@@ -29,7 +29,7 @@
   <br>
   This is not a Ryujinx revival project. This is not a Phoenix project.
   <br>
-  Guides and documentation can be found on the <a href="https://github.com/Ryubing/Ryujinx/wiki">Wiki</a>.
+  Guides and documentation can be found on the <a href="https://git.ryujinx.app/ryubing/ryujinx/-/wikis/home">Wiki</a>.
 </p>
 
 <p align="center">
