@@ -7,8 +7,8 @@
           
 # Ryujinx
 
-[![Latest release](https://img.shields.io/github/v/release/Ryubing/Stable-Releases?label=stable)](https://github.com/Ryubing/Stable-Releases/releases/latest)
-[![Latest canary release](https://img.shields.io/github/v/release/Ryubing/Canary-Releases?label=canary)](https://github.com/Ryubing/Canary-Releases/releases/latest)
+[![Latest release](https://img.shields.io/gitlab/v/release/ryubing%2Fryujinx?gitlab_url=https%3A%2F%2Fgit.ryujinx.app&label=stable&color=32cd32)](https://git.ryujinx.app/ryubing/ryujinx/-/releases)
+[![Latest canary release](https://img.shields.io/gitlab/v/release/ryubing%2Fcanary?gitlab_url=https%3A%2F%2Fgit.ryujinx.app&label=canary&color=FF4500)](https://git.ryujinx.app/ryubing/canary/-/releases)
 <br>
 <a href="https://discord.gg/PEuzjrFXUA">
 <img src="https://img.shields.io/discord/1294443224030511104?color=5865F2&label=Ryubing&logo=discord&logoColor=white" alt="Discord">
@@ -31,7 +31,7 @@
   <br>
   This is not a Ryujinx revival project. This is not a Phoenix project.
   <br>
-  Guides and documentation can be found on the <a href="https://git.ryujinx.app/ryubing/ryujinx/-/wikis/home">Wiki tab</a>.
+  Guides and documentation can be found on the <a href="https://git.ryujinx.app/groups/ryubing/-/wikis/home">Wiki tab</a>.
 </p>
 
 <p align="center">
@@ -49,13 +49,13 @@ Stable builds are made every so often, based on the `master` branch, that then g
 These stable builds exist so that the end user can get a more **enjoyable and stable experience**.
 They are released every month or so, to ensure consistent updates, while not being an annoying amount of individual updates to download over the course of that month.
 
-You can find the latest stable release [here](https://github.com/Ryubing/Stable-Releases/releases/latest).
+You can find the stable releases [here](https://git.ryujinx.app/ryubing/ryujinx/-/releases).
 
 Canary builds are compiled automatically for each commit on the `master` branch.
 While we strive to ensure optimal stability and performance prior to pushing an update, these builds **may be unstable or completely broken**.
 These canary builds are only recommended for experienced users.
 
-You can find the latest canary release [here](https://github.com/Ryubing/Canary-Releases/releases/latest).
+You can find the canary releases [here](https://git.ryujinx.app/ryubing/canary/-/releases).
 
 ## Documentation
 
@@ -111,7 +111,7 @@ See [LICENSE.txt](LICENSE.txt) and [THIRDPARTY.md](distribution/legal/THIRDPARTY
 
 ## Credits
 
-- [LibHac](https://github.com/Thealexbarney/LibHac) is used for our file-system.
+- [LibHac](https://git.ryujinx.app/ryubing/libhac) is used for our file-system.
 - [AmiiboAPI](https://www.amiiboapi.com) is used in our Amiibo emulation.
 - [ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) is used for one of our available multiplayer modes.
 - [ShellLink](https://github.com/securifybv/ShellLink) is used for Windows shortcut generation.
