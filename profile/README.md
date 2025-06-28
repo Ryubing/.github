@@ -7,8 +7,8 @@
           
 # Ryujinx
 
-[![Latest release](https://img.shields.io/gitlab/v/release/ryubing%2Fryujinx?gitlab_url=https%3A%2F%2Fgit.ryujinx.app&label=stable&color=32cd32)](https://git.ryujinx.app/ryubing/ryujinx/-/releases)
-[![Latest canary release](https://img.shields.io/gitlab/v/release/ryubing%2Fcanary?gitlab_url=https%3A%2F%2Fgit.ryujinx.app&label=canary&color=FF4500)](https://git.ryujinx.app/ryubing/canary/-/releases)
+[![Latest release](https://img.shields.io/gitlab/v/release/ryubing%2Fryujinx?gitlab_url=https%3A%2F%2Fgit.ryujinx.app&label=stable&color=32cd32)](https://update.ryujinx.app/latest/stable)
+[![Latest canary release](https://img.shields.io/gitlab/v/release/ryubing%2Fcanary?gitlab_url=https%3A%2F%2Fgit.ryujinx.app&label=canary&color=FF4500)](https://update.ryujinx.app/latest/canary)
 <br>
 <a href="https://discord.gg/PEuzjrFXUA">
 <img src="https://img.shields.io/discord/1294443224030511104?color=5865F2&label=Ryubing&logo=discord&logoColor=white" alt="Discord">
